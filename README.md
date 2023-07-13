@@ -25,7 +25,7 @@ SkyCast is a modern and feature-rich weather application that allows users to ge
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/skycast.git`
+1. Clone the repository: `git clone https://github.com/berkayediz/skycast.git`
 2. Navigate to the project directory: `cd skycast`
 3. Open index.html in your preferred web browser.
 
